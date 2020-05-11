@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555559916 source:/home/surya/Desktop/Assignment/Assignment12.2/main.cpp
+	<iostream>
+	"Queue.h"
+	<unistd.h>
+	<ctime>
+	<cstdlib>
+
+1555482730 /home/surya/Desktop/Assignment/Assignment12.2/include/Queue.h
+
+1555558845 source:/home/surya/Desktop/Assignment/Assignment12.2/src/Queue.cpp
+	<iostream>
+	"Queue.h"
+
